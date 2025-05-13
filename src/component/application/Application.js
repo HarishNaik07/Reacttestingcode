@@ -1,7 +1,7 @@
 export const Application = () => {
     return (
       <>
-        <h1>Job application form</h1>
+        <h1>Job application form to Login</h1>
         <h2>Section 1</h2>
         <p>All fields are mandatory</p>
         <span title="close">X</span>
